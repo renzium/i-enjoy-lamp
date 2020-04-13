@@ -1,6 +1,6 @@
 # i-enjoy-lamp
 
-> A Vue.js project
+> Work with git
 
 ## Build Setup
 
